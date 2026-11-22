@@ -12,3 +12,12 @@ Dm9 – G13 – Cmaj9 – A7♭13.
 Every sound is synthesized from scratch in [synth.py](synth.py) (Python, NumPy, SciPy): no samples, no loops, no AI music model.
 The video is an HTML/CSS scene rendered with Playwright/Chromium, with scrolling code and an audio-reactive
 spectrum made with FFmpeg (`showfreqs`).
+
+# Sunrise Merge
+
+A second, separate 60-second piece: 72 BPM, G minor, Gm9 – C9 – Fmaj9 – D7♯9, Karplus-Strong guitar skank,
+breathy synthesized flute melody, morning-beach video with moving waves, scrolling code and a live waveform.
+
+- Video: [sunrise_merge_short.mp4](https://github.com/mmajjd926-netizen/offbeat-commit/raw/main/sunrise_merge_short.mp4)
+- Audio: [sunrise_merge.mp3](https://github.com/mmajjd926-netizen/offbeat-commit/raw/main/sunrise_merge.mp3) · [sunrise_merge.wav](https://github.com/mmajjd926-netizen/offbeat-commit/raw/main/sunrise_merge.wav)
+- Source: [synth2.py](synth2.py)
