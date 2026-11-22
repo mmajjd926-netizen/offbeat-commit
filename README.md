@@ -29,3 +29,11 @@ organ bubble, a walking root-fifth bass with chromatic approach notes, and a mel
 Fm9 – Bb13 – Ebmaj9 – Dbmaj7#11 with a C7#9 turnaround; a two-bar drop in the middle and a soft rain bed.
 Visuals: a rainy night window over a neon city, code scrolling on the laptop and the track's waveform on the sill.
 Files: `rainy_rebase_short.mp4`, `rainy_rebase.mp3`, `rainy_rebase.wav`; source `synth3.py`.
+
+## Rooftop Refactor
+
+74 BPM, A-flat major, lovers-rock feel. Rockers groove (kick on one and three, rimshot on three), dub-delayed
+electric-piano skank, organ bubble, walking bass, and a plucked-guitar melody (Karplus-Strong string model,
+doubled an octave down) over Abmaj9 – Fm11 – Dbmaj9 – Eb13sus with a C7#9 turnaround and a two-bar drop.
+Visuals: sunset over a city rooftop, a drifting string of party lights, code scrolling on the laptop and a live spectrum on the railing.
+Files: `rooftop_refactor_short.mp4`, `rooftop_refactor.mp3`, `rooftop_refactor.wav`; source `synth4.py`.
